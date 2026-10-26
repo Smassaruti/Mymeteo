@@ -1,0 +1,13 @@
+{
+  "name": "Consenso Meteo",
+  "short_name": "Meteo",
+  "lang": "it",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0D161B",
+  "theme_color": "#0B6E8F",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
